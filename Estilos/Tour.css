@@ -8,6 +8,7 @@ body{
 
    background-image:url("../Imagenes/tour.png");
 }
+/*efecto en el texto*/
 p{
   justify-content:10px; 
   font-size: 18px;
@@ -15,6 +16,7 @@ p{
 
   
 }
+/*tamaño y color en h1*/
 h1{
   background-color:#F8F8F8 ;
   font-size: 18px;
@@ -32,7 +34,7 @@ background-color:#F8F8F8 ;
 shape-margin: 80px;
 column-span: 80px;
 }
-
+/*barra*/
 footer{
 background-color:rgb(0, 191, 255);
 padding: 20px;
