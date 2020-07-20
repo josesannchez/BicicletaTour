@@ -5,14 +5,13 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-
+/*cuerpo de la pagina*/
 body {
-   /* background: url(../Imagenes/Login\ \(2\).jpg);*/
     background-size: cover;
     background-attachment: fixed;
     font-family: Roboto;
 }
-
+/*efecto de formulario*/
 .contenedor-form {
     background: rgba(0,0,0,.7);
     max-width: 500px;
@@ -21,7 +20,7 @@ body {
     border-radius: 5px;
     color: #fff;
     position: relative;
-    /*padding: 40px;*/
+   
 }
 
 .contenedor-form .toggle {
@@ -41,7 +40,7 @@ body {
 .contenedor-form .toggle span {
     letter-spacing: 1px;
 }
-
+/*efecto de formulario*/
 .contenedor-form h2 {
     margin: 0 0 28px 0;
     font-size: 20px;
@@ -66,7 +65,7 @@ body {
     font-weight:normal;
     transition: all .5s ease;
 }
-
+/*efecto de input en el texto*/
 .contenedor-form input[type="text"]:focus,
 .contenedor-form input[type="password"]:focus,
 .contenedor-form input[type="email"]:focus {
