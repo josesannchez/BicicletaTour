@@ -33,21 +33,6 @@ margin-top: 200px;
   border-style: center;
 }
 
-
-/* Fake image */
-.fakeimg {
-  display: block;
-   background-position: center center;   
-  background-attachment: fixed;
-    background-size: cover;
-    background-attachment: fixed;
- 
-  margin: center;
-  background-position: center center;   
-  background-image: url("../Imagenes/tour.png");
-}
-
-/* Add a card effect for articles */
 .card {
 background: #ebebeb;
 padding: 20px;
