@@ -7,6 +7,7 @@ box-sizing: border-box;
   box-sizing: border-box; 
 background-image: url("../Imagenes/registro.jpg")
 }
+/*efecto en en fondo del div*/
 div {
   width: center;
   margin: center;
