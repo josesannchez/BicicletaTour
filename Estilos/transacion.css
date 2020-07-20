@@ -6,11 +6,13 @@ body {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
 }
+/*justificar texto*/
 p{
   justify-content:10px; 
   font-size: 18px;
   width:center;
 }
+/*efecto en el input*/
 input{
  background-color:rgb(235, 245, 251 );
   padding: 2px;
@@ -21,18 +23,18 @@ input{
   font-size: 16px;
 }
 section{
- 
 padding: 2px;
 text-align: left; 
 margin-top: 200px;
 }
+/*efecto en el fondo del container*/
 .container{
  background: #ebebeb;
   width: 80px;
   margin:8px;
   border-style: center;
 }
-
+/*efecto en card*/
 .card {
 background: #ebebeb;
 padding: 20px;
@@ -40,7 +42,7 @@ border-radius:8px
 border-style: 2px;
 margin: 8px;
 }
-
+/* color barra*/
 footer{
 background-color:rgb(0, 191, 255);
      border: none;
