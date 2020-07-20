@@ -78,7 +78,7 @@ column-span: 80px;
   margin: center;
   border-style: center;
 }
-
+/*anchura*/
 @media screen and (max-width: 400px) {
 .topnav a {
     float: none;
