@@ -12,7 +12,7 @@ body {
     background-attachment: fixed;
     font-family: Roboto;
 }
-
+/*efecto al formulario*/
 .contenedor-form {
     background: rgba(0,0,0,.7);
     max-width: 500px;
@@ -23,7 +23,7 @@ body {
     position: relative;
     /*padding: 40px;*/
 }
-
+/*efecto al formulario*/
 .contenedor-form .toggle {
     position: absolute;
     top: 7px;
@@ -72,13 +72,13 @@ body {
     font-weight:normal;
     transition: all .5s ease;
 }
-
+/*efecto al input*/
 .contenedor-form input[type="text"]:focus,
 .contenedor-form input[type="password"]:focus,
 .contenedor-form input[type="email"]:focus {
 border-bottom: 4px solid #0075d9;
 }
-
+/*efecto al input */
 .contenedor-form input[type="submit"] {
     background: #FF851B;
     color: #FFF;
