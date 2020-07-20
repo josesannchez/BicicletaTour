@@ -7,12 +7,11 @@ body {
 /* imagen en card como fondo */
 .fakeimg {
   background-color: #aaa;
-  width: 80%;
+  width: auto;
   padding: 20px;
   height:400px;
   background-image:url("../Imagenes/rutspod.jpg");
-margin-left: 100px;
-position: relative;
+
 }
 /* efecto en card */
 .card {
