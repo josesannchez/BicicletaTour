@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registro de Usuarios</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="Estilos/InicioSesion.css"/>
+<link rel="stylesheet" type="text/css" href="Estilos/Barra.css"/>
+<link rel="stylesheet" type="text/css" href="Estilos/footer.css"/> 
+<link rel="stylesheet" type="text/css" href="Estilos/mezcla.css"/> 
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+</head>
+<body>
+  <header>
+    <ul>
+  <li><a href="index.html">Inicio</a></li>
+  <li><a href="Adminitracion.html">Administracion</a></li>
+  <li><a href="Consultas.html">Consultas para el usuarios</a></li>
+  <li><a href="Transacion.html">Transaciones de usuario</a></li>
+  <li><a href="Acercar.html">Acerca de</a></li>
+  <li style="float:right"><a href="Registro.html">Registro</a></li>
+  <li style="float:right"><a href="InicioSeccion.html">InicioSeccion</a></li>
+</ul>
+</header>
+    <div class="contenedor-form">
+        <div class="login">
+        </div>
+            <h1 class="login-header">Inicio de sesion</h1>
+            <form id="form" class="login-container">
+                <label for="email">Email</label>
+                <input type="text" id="txtLoginUser" placeholder="Jose1996san@gmail.com" required/>
+                <label for="password">Password</label>
+                <input type="password" id="txtContraUser" placeholder="Qmasv88"required/>
+                <input type="submit" class="button"  value="Iniciar Sesión"/>
+            </form>
+            <p>
+<button  type="button" class="button" onclick="document.location='Registro.html'">Registrarse</button>
+</p>
+        </div>
+      
+<script src="js/login.js"></script>
+    <footer>
+     <p>Sitio creado por Jose Sanchez  con el tema  Bicicleta tour
+   </p> 
+</footer>
+</body>
+</html>
