@@ -9,7 +9,8 @@ ul {
 /*lista flotante para que flote a a derecha el registro e inicio de session*/
 li {
   float: left;
-  border-right:1px color: #f2f2f2;;
+  border-right:1px;
+  color: #f2f2f2;
 
 }
 li:last-child {
