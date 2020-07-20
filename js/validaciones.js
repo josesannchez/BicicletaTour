@@ -36,7 +36,7 @@
         } 
         else{
             alert("Solicitud enviada");
-         location.href="transacion.html"
+         location.href="Transacion.html"
         
         } 
         }
