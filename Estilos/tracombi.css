@@ -6,7 +6,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
 }
-
+/*efecto de formualrio*/
 .contenedor-form {
     background: rgba(0,0,0,.7);
   
@@ -35,13 +35,15 @@ body {
 .contenedor-form .toggle span {
     letter-spacing: 1px;
 }
-
+/*efecto en titulo*/
 .contenedor-form h2 {
     margin: 0 0 28px 0;
     font-size: 20px;
     font-weight: 400;
     line-height: 1;
 }
+
+/*efecto de input en el text*/
 .contenedor-form input[type="text"],
 .contenedor-form input[type="password"],
 .contenedor-form input[type="email"] {
@@ -80,7 +82,7 @@ border-bottom: 4px solid #0075d9;
     cursor: pointer;
     transition: all .5s ease;
 }
-
+/*efecto de contendido en el input*/
 .contenedor-form input[type="submit"]:hover {
     background: rgba(0, 117, 217, 0.7);
 }
@@ -99,7 +101,7 @@ border-bottom: 4px solid #0075d9;
     text-decoration: none;
     font-size: 16px;
 }
-
+/*efecto de formulario*/
 .contenedor-form .formulario {
     display: none;
     padding: 40px;
