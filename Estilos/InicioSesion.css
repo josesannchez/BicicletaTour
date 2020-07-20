@@ -40,14 +40,14 @@ p,label{
   font-size: 16px;
 }
 
-/* Reset top and bottom margins from certain elements */
+
 .login-header,
 .login p {
   margin-top: 0;
   margin-bottom: 0;
 }
 
-/* The triangle form is achieved by a CSS hack */
+
 .login-header {
   background: #28d;
   padding: 20px;
@@ -63,7 +63,7 @@ p,label{
   padding: 12px;
 }
 
-/* Every row inside .login-container is defined with p tags */
+
 .login p {
   padding: 12px;
 }
@@ -91,7 +91,6 @@ div{
   color: #555;
 }
 
-/* Text fields' focus effect */
 .login input[type="email"]:focus,
 .login input[type="password"]:focus {
   border-color: #888;
@@ -111,7 +110,7 @@ div{
 
 }
 
-/* Buttons' focus effect */
+
 .login input[type="submit"]:focus {
   border-color: #05a;
     border: none;
