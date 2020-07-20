@@ -62,7 +62,7 @@ body {
     font-weight:normal;
     transition: all .5s ease;
 }
-
+/*efecto en formulario*/
 .contenedor-form input[type="text"]:focus,
 .contenedor-form input[type="password"]:focus,
 .contenedor-form input[type="email"]:focus {
