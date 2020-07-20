@@ -14,7 +14,7 @@ div {
  background: #ebebeb;
   padding: 2px;
 }
-/* Every row inside .login-container is defined with p tags */
+/* tamaño de letra */
  p {
   padding: 12px;
 }
@@ -46,7 +46,7 @@ input[type="password"] {
   color: #555;
 }
 
-/* Text fields' focus effect */
+/* efecto de texto */
  input[type="email"]:focus,
  input[type="password"]:focus {
   border-color: #888;
@@ -71,7 +71,7 @@ input[type="password"] {
   cursor: pointer;
 }
 
-/* Buttons' focus effect */
+/* efecto de boton */
  input[type="submit"]:focus {
   border-color: #05a;
     border: none;
