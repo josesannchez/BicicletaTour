@@ -5,16 +5,14 @@ body {
       
 }
 /* imagen en card como fondo */
-.fakeimg,card {
+.fakeimg {
   background-color: #aaa;
-  width:600px; 
-  min-content:200px;
+  width: 80%;
   padding: 20px;
-  margin:auto;
-  height:400px;
   height:400px;
   background-image:url("../Imagenes/rutspod.jpg");
-
+margin-left: 100px;
+position: relative;
 }
 /* efecto en card */
 .card {
